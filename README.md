@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a frontend dev , learning everyday to be better .
+I am a remote website dev , learning everyday to be better .
 With great love for open source
 
 
